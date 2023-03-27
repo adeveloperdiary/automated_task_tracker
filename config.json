@@ -1,0 +1,23 @@
+{
+  "global_property": {
+    "user_ideal_time": 120,
+    "track_in_every_x_sec": 5,
+    "tracked_apps": [
+      "PyCharm",
+      "Safari",
+      "Google Chrome"
+    ]
+  },
+  "Google Chrome": {
+    "tracked_domains": [
+      "www.educative.io",
+      "www.algoexpert.io",
+      "leetcode.com"
+    ]
+  },
+  "Safari": {
+    "tracked_domains": [
+      "www.youtube.com"
+    ]
+  }
+}
